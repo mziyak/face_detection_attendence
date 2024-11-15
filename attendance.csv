@@ -1,0 +1,67 @@
+attendance;total;male;female;poorest_20perc;richest_20perc;source
+Yemen;3;3;3;0;8;#######
+Afghanistan;1;1;1;0;4;MICS 2011-2012
+Somalia;2;2;2;1;6;#######
+Chad;3;3;3;1;11;#######
+Côte d'Ivoire;5;5;5;1;15;#######
+Democratic Republic of the Congo;7;7;7;1;20;#######
+Iraq;4;4;4;1;10;#######
+Mali;5;6;5;1;21;#######
+Central African Republic ;5;5;6;2;17;MICS 2012-2013
+South Sudan;6;6;6;2;13;MICS 2012
+Bosnia and Herzegovina;13;12;14;2;31;#######
+Benin;13;13;14;2;38;MICS 2015
+Cameroon;28;27;29;2;66;MICS 2014
+Rwanda;13;12;14;3;45;#######
+Bhutan;10;10;10;3;27;MICS 2011-2012
+Guinea-Bissau;13;13;14;3;46;BFHS 2007-2008
+Syrian Arab Republic;8;8;7;4;18;Census 2010
+Burundi;5;5;5;4;10;#######
+Sierra Leone;14;13;15;5;42;Statistical Yearbook Early Childhood Education 2015-2016
+Lao People's Democratic Republic;23;21;25;5;73;MICS 2005
+Morocco;39;36;41;6;78;#######
+Cambodia;15;12;17;7;38;MICS 2014 
+Montenegro;40;39;42;7;66;MICS 2010 
+Sudan;22;22;23;7;59;DHS 2014-2015
+Algeria;17;17;16;7;31;#######
+Costa Rica;18;17;18;8;40;Encuesta Nacional De Calidad De Vida 2014
+Serbia;50;52;49;9;82;#######
+Nigeria;43;42;43;10;84;MICS 2014-2015 KFR
+Jordan;22;21;23;11;39;#######
+Myanmar;23;22;25;11;42;MICS 2011
+Senegal;35;35;34;12;68;DHS 2012 
+Bangladesh;13;13;14;12;18;Eurostat 2015
+Kyrgyzstan;23;23;23;12;50;MICS 2014
+Gambia;18;17;19;12;32;#######
+Honduras;19;17;21;13;28;MICS 2009
+Tunisia;44;42;47;13;81;DHS 2013-2014
+Togo;26;26;26;15;52;#######
+Dominican Republic;40;39;40;16;72;#######
+Suriname;34;33;35;16;63;#######
+Zimbabwe;22;20;23;17;34;DHS 2014
+Turkmenistan;43;43;43;17;81;ENS/MICS 2014 
+El Salvador;25;24;26;19;44;#######
+State of Palestine;26;27;26;21;38;#######
+Sao Tome and Principe;36;34;39;21;63;#######
+Albania;40;39;42;26;60;#######
+Malawi;39;37;41;26;67;#######
+Panama;37;38;35;28;67;#######
+Swaziland;30;26;33;28;48;#######
+Belize;55;52;58;29;72;MICS 2010 
+Ukraine;52;54;50;30;68;WMS 2015 (prelim)
+Egypt;47;48;47;34;50;#######
+Mongolia;68;68;68;36;90;#######
+Nepal;51;52;49;41;84;#######
+Ghana;68;65;72;42;97;#######
+Guyana;61;63;59;45;76;#######
+Kazakhstan;55;53;58;45;70;#######
+Argentina;63;61;66;46;85;DHS 2011-2012
+Republic of Moldova;71;74;67;50;88;#######
+Viet Nam;71;74;69;53;86;#######
+Mexico;60;58;62;58;71;SUSENAS 2013
+Trinidad and Tobago;75;74;76;65;87;MIDHS 2010
+Peru;77;76;79;70;90;#######
+Belarus;88;86;89;75;91;MICS 2011
+Thailand;85;84;85;86;84;DHS 2012 
+Jamaica;92;92;91;88;100;MICS 2015
+Barbados;90;88;91;90;97;########
